@@ -1,0 +1,2 @@
+pytest==8.4.1
+celery[redis]==5.5.3
